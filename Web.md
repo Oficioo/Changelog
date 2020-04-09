@@ -123,9 +123,77 @@ notable changes.
 ### Added
 - "Why should I care?" section mentioning The Changelog podcast.
 
-## [0.0.2] - 2014-07-10
+## [1.1.0] - 2020-03-30
 ### Added
-- Explanation of the recommended reverse chronological release ordering.
+- Move Document to Another Position.
+- Upload Mail Scanned to Preview in Surat Masuk.
+- Upload Mail Scanned to Preview in Fax Masuk.
+- Response Disposition Memorandum.
+- Response Disposition Surat Masuk.
+- Response Disposition Fax Masuk.
+- Flow Add Reviewer Memorandum.
+- Flow Add Reviewer Surat Keluar.
+- Flow Add Reviewer Fax Keluar.
+- Create No Agenda Automatically Memorandum.
+- Create No Agenda Automatically Surat Masuk.
+- Create No Agenda Automatically Fax Masuk.
+- Create No Agenda Automatically Surat Keluar.
+- Create No Agenda Automatically Fax Keluar.
+- Create No Agenda Automatically SP3S.
+- Create No Agenda Automatically SPPTH.
+- Add Field Resume, Category, Recommendation Surat Masuk.
+- Add Field Resume, Category, Recommendation Fax Masuk.
+- Upload Document Each Number in Request Offline Offline.
+- Revise Request Offline Number.
+- Approve Request Offline Number.
+- Reject Request Offline Number.
+- List Incoming Document.
+- List Outgoing Document.
+- List Disposition Document.
+- Export Excel Incoming Document.
+- Export Excel Outgoing Document.
+- Export Excel Disposition Document.
+- List History SP3S.
+- Master Mail Category.
+- List Move Document.
+- Master Exception Task.
+- Revise SP3S.
+- Revise SPPTH.
+- Free Text Allow Task SP3S.
+- Free Text Exception Task SP3S.
+- Secretary Note Incoming Document.
+- Secretary Note Outgoing Document.
+- Secretary Note Disposition Document.
+- Master Mapping Secretary.
+- Fitur Login as Secretary.
+- Web Hook Work Unit.
+- Web Hook Position.
+- Web Hook Application Group.
+- Web Hook User.
+- Fitur Do File in Surat Masuk.
+- Fitur Do File in Fax Masuk.
+- Fitur Do File in Disposisi Surat Masuk.
+- Fitur Do File in Disposisi Fax Masuk.
+- Fitur Do File in Disposisi Memorandum Masuk.
+
+### Changed
+- Upload And Show Attachment Disposition Memorandum.
+- Upload And Show Attachment Disposition Surat Masuk.
+- Upload And Show Attachment Disposition Fax Masuk.
+- Create Request Offline Number.
+- Exception Task From master Form Create SP3S.
+- Templating SP3S.
+- Same Action Disposition.
+- Multiple Different Action Disposition.
+- Directorate Field in Surat Keluar Not Mandatory.
+
+### Removed 
+- Exception Task List Application Group SP3S.
+
+### Fixed
+- Comentar on First History Dratf Mail.
+
+
 
 ## [1.0.0] - 2020-02-11
 ### Added
