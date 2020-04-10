@@ -6,7 +6,7 @@ This Mobile Application uses rest [Rest API Oficioo Documentation](https://rest.
 ## [Unreleased](https://www.google.com)
 
 ## [1.0.0](https://www.google.com) - 2020-04-10
-### Added
+### Added [Rennaldy Protono](https://github.com/0plus)
 - Login Page
 - Home Page
 - Inbox Memorandum List
