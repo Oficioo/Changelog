@@ -4,14 +4,22 @@ All notable changes to this project will be documented in this file.
 This Mobile Application uses rest [Rest API P-Office Documentation](https://rest.pertamina.oficioo.id/swagger/index.html), and Web Application can be accessed at  [P-Office](https://pertamina.oficioo.id/#!/Master/Template/Inbox/#!/Inbox/Memorandum/List).
 
 ## [Unreleased]()
-## [1.0.1]() - Sprint 2 (2020-04-19)
+## [1.0.1]() - Sprint 2 (2020/04/23)
 ### Added By [Rennaldy Protono](https://github.com/0plus)
+- Inbox Create Surat Keluar 
+- Inbox Drafting Surat Keluar
+- Inbox Editing Online Surat Keluar
+- Inbox Approve Surat Keluar
+- Inbox Reject Surat Keluar
+- Inbox mengembalikan ke konseptor surat keluar
+- Inbox mengembalikan ke reviewer sebelumnya surat keluar
+- Inbox Add Reviewer
 ### Changed
 
 
 ## [Released]()
 
-## [1.0.0](https://drive.google.com/file/d/1QJ3oJh-Z04qqm8FbYLOAONWdPJqd5d6O/view?usp=sharing) - Sprint 1 (2020-04-14 - 2020-04-19)
+## [1.0.0](https://drive.google.com/file/d/1QJ3oJh-Z04qqm8FbYLOAONWdPJqd5d6O/view?usp=sharing) - Sprint 1 (2020/04/14 -  2020/04/19)
 ### Added By [Rennaldy Protono](https://github.com/0plus)
 - Login Page
 - Home Page
