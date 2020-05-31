@@ -4,23 +4,30 @@ All notable changes to this project will be documented in this file.
 This Mobile Application uses rest [Rest API PEPC E-Corr Documentation](https://rest-ecorr.pepc.co.id/index.html), and Web Application can be accessed at  [PEPC](https://ecorr.pepc.co.id/).
 
 ## [Unreleased]()
-## [1.1.0]() - (2020/06/01)
-### Added By [Rennaldy Protono](https://github.com/0plus)
-- Inbox Create Surat Keluar 
-- Inbox Drafting Surat Keluar
-- Inbox Editing Online Surat Keluar
-- Inbox Approve Surat Keluar
-- Inbox Reject Surat Keluar
-- Inbox mengembalikan ke konseptor surat keluar
-- Inbox mengembalikan ke reviewer sebelumnya surat keluar
-- Inbox Add Reviewer
-### Changed
+
 
 
 ## [Released]()
+## [1.1.0](https://drive.google.com/file/d/1R0d_hTc3rdMu5cpART8-AImPqJEejQ1p/view?usp=sharing) - (2020/06/01)
+### Added
+- Create Memorandum
+- Send Memorandum
+- Create SP3S
+- Send SP3S
+- Create SPPTH
+- Send SPPTH
+- Edit Memorandum
+- Edit SP3S
+- Edit SPPTH
+
+### Changed
+- Bug Fixing Attachment Preview
+### Fixed
+- Attachment Max size 10Mb
+- Mail Code Order
 
 ## [1.0.0]()
-### Added By [Rennaldy Protono](https://github.com/0plus)
+### Added
 - Login Page
 - Home Page
 - Inbox Memorandum List
@@ -110,5 +117,11 @@ This Mobile Application uses rest [Rest API PEPC E-Corr Documentation](https://r
 - Archive Fax Masuk Details
 - Archive Fax Keluar List
 - Archive Fax Keluar Details
-
-### Changed
+- Inbox Create Surat Keluar 
+- Inbox Drafting Surat Keluar
+- Inbox Editing Online Surat Keluar
+- Inbox Approve Surat Keluar
+- Inbox Reject Surat Keluar
+- Inbox Surat Keluar  mengembalikan ke konseptor surat keluar
+- Inbox Surat Keluar mengembalikan ke reviewer sebelumnya surat keluar
+- Inbox Surat Keluar  Add Reviewer
